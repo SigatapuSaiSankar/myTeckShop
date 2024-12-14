@@ -1,0 +1,167 @@
+[
+    {
+        "id": "1",
+        "title": "JBL Live 660NC",
+        "description": "Wireless Over-Ear NC Headphones",
+        "price": 9999,
+        "cutPrice": 14999,
+        "rating": 5,
+        "imageUrl": "./images/products/jbl660nc-1.png",
+        "images": [
+            "./images/products/jbl660nc-1.png",
+            "./images/products/jbl660nc-2.png",
+            "./images/products/jbl660nc-3.png",
+            "./images/products/jbl660nc-4.png"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "boAt Rockerz 518",
+        "description": "On-Ear Wireless Headphones",
+        "price": 1299,
+        "cutPrice": 3990,
+        "rating": 5,
+        "imageUrl": "./images/products/boat518-1.png",
+        "images": [
+            "./images/products/boat518-1.png",
+            "./images/products/boat518-2.png",
+            "./images/products/boat518-3.png",
+            "./images/products/boat518-4.png"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "boAt Airpods 131",
+        "description": "Wireless In-Ear Earbuds",
+        "price": 1099,
+        "cutPrice": 2990,
+        "rating": 5,
+        "imageUrl": "./images/products/boat131-1.png",
+        "images": [
+            "./images/products/boat131-1.png",
+            "./images/products/boat131-2.png",
+            "./images/products/boat131-3.png",
+            "./images/products/boat131-4.png"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "boAt BaseHEads 110",
+        "description": "In-Ear Wired Earphones",
+        "price": 449,
+        "cutPrice": 999,
+        "rating": 4,
+        "imageUrl": "./images/products/boat110-1.png",
+        "images": [
+            "./images/products/boat110-1.png",
+            "./images/products/boat110-2.png",
+            "./images/products/boat110-3.png",
+            "./images/products/boat110-4.png"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "boAt Rockerz 410",
+        "description": "Bluetooth & Wired On-Ear Headphones",
+        "price": 1599,
+        "cutPrice": 2990,
+        "rating": 5,
+        "imageUrl": "./images/products/boat410-1.png",
+        "images": [
+            "./images/products/boat410-1.png",
+            "./images/products/boat410-2.png",
+            "./images/products/boat410-3.png",
+            "./images/products/boat410-4.png"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "JBL Live 200BT",
+        "description": "In-Ear Wireless Neckbands",
+        "price": 3699,
+        "cutPrice": 5299,
+        "rating": 4,
+        "imageUrl": "./images/products/jbl200bt-1.png",
+        "images": [
+            "./images/products/jbl200bt-1.png",
+            "./images/products/jbl200bt-2.png",
+            "./images/products/jbl200bt-3.png",
+            "./images/products/jbl200bt-4.png"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Sony WH-XB910N",
+        "description": "Wireless Over-Ear Headphones",
+        "price": 13489,
+        "cutPrice": 19190,
+        "rating": 4,
+        "imageUrl": "./images/products/sonyXb910n-1.png",
+        "images": [
+            "./images/products/sonyXb910n-1.png",
+            "./images/products/sonyXb910n-2.png",
+            "./images/products/sonyXb910n-3.png",
+            "./images/products/sonyXb910n-4.png"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "JBL Tune 760NC",
+        "description": "Wireless Over-Ear NC Headphones",
+        "price": 5999,
+        "cutPrice": 7999,
+        "rating": 4,
+        "imageUrl": "./images/products/jbl760nc-1.png",
+        "images": [
+            "./images/products/jbl760nc-1.png",
+            "./images/products/jbl760nc-2.png",
+            "./images/products/jbl760nc-3.png",
+            "./images/products/jbl760nc-4.png"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "boAt Rockerz 255",
+        "description": "In-Ear Wireless Neckbands",
+        "price": 899,
+        "cutPrice": 2990,
+        "rating": 5,
+        "imageUrl": "./images/products/boat255r-1.png",
+        "images": [
+            "./images/products/boat255r-1.png",
+            "./images/products/boat255r-2.png",
+            "./images/products/boat255r-3.png",
+            "./images/products/boat255r-4.png"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "JBL Wave 100",
+        "description": "In-Ear Truly Wireless Earbuds",
+        "price": 2999,
+        "cutPrice": 6999,
+        "rating": 4,
+        "imageUrl": "./images/products/jbl100-1.png",
+        "images": [
+            "./images/products/jbl100-1.png",
+            "./images/products/jbl100-2.png",
+            "./images/products/jbl100-3.png",
+            "./images/products/jbl100-4.png"
+        ]
+    },
+    {
+        "id": "11",
+        "title": "Sony WF-1000XM4",
+        "description": "Wireless In-Ear NC Headphones",
+        "price": 19990,
+        "cutPrice": 24990,
+        "rating": 3,
+        "imageUrl": "./images/products/sony1000xm4-1.png",
+        "images": [
+            "./images/products/sony1000xm4-1.png",
+            "./images/products/sony1000xm4-2.png",
+            "./images/products/sony1000xm4-3.png",
+            "./images/products/sony1000xm4-4.png"
+        ]
+    }
+]

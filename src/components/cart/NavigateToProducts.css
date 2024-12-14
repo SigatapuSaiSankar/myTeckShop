@@ -1,0 +1,55 @@
+.NavToPro{
+    color: white;
+    margin-top: 15dvh;
+}
+
+.NavToPro-Head{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.NavToPro-Info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.NavToPro-Desc{
+    color: #d00404;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.NavToPro-Icon{
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.NavToPro-Btn button{
+    background-color: white;
+    color: #d00404;
+    border: none;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    animation-name: highlighting;
+    animation-duration: 1s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes highlighting {
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.1);
+    }
+    100%{
+        transform: scale(1);
+    }
+}

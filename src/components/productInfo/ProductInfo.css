@@ -1,0 +1,164 @@
+.mainProductInfo{
+    display: flex;
+    padding: 50px 20px 150px 20px;
+    background-color: #141414;
+}
+
+.mainProductInfo .leftImages{
+    margin-left: 40px;
+}
+
+.mainProductInfo .leftImages .selectImage{
+    width: 110px;
+    padding: 5px;
+    border-radius: 3px;
+    margin-bottom: 50px;
+    border: 1px solid #3b3d3f;
+}
+
+.mainProductInfo .leftImages .selectImage img{
+    width: 100%;
+}
+
+.mainProductInfo .mainImage{
+    width: 680px;
+}
+
+.mainProductInfo .mainImage img{
+    width: 100%;
+}
+
+.infoStars{
+    display: flex;
+    margin: 30px 0px 40px 0px;
+    align-items: center;
+}
+
+.infoStars .stars{
+    padding-right: 5px;
+    color: #d00404;
+    font-size: 13px;
+}
+
+.rightInformation{
+    padding-left: 20px;
+    width: 550px;
+}
+
+.rightInformation .productName{
+    color: #838897;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+
+.rightInformation .productDesc{
+    color: #838897;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.rightInformation .stars+p{
+    color: #57585c;
+    font-size: 20px;
+}
+
+.rightInformation .pricing .pri .price{
+    color: #a1a8bd;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.rightInformation .pricing{
+    display: flex;
+    align-items: center;
+    padding: 50px 10px 50px 0px;
+    border-top: 1px solid #57585c;
+    border-bottom:  1px solid #57585c;
+    justify-content: space-between;
+}
+
+.rightInformation .pricing .pri .price .cutPrice{
+    color: #6c757d;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.rightInformation .pricing .inStock{
+    background-color: #008000;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #a8adbe;
+    font-weight: 600;
+    display: flex;
+    /* align-items: center; */
+}
+
+.rightInformation .pricing .inStock .stock{
+    margin-left:10px ;
+}
+
+.rightInformation .pricing .pri .saving{
+    color: #008000;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.rightInformation .pricing .pri .inclusive{
+    color: #6c757d;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    margin-top: 10px;
+}
+
+.rightInformation .offers{
+    padding: 50px 0px;
+    border-bottom: 1px solid #57585c;
+}
+
+.rightInformation .offers .offersHeading{
+    color: #838897;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.rightInformation .offers .applicableoffers{
+    display: flex;
+    justify-content: start;
+}
+
+.rightInformation .offers .applicableoffers .offerCard{
+    border: 1px solid #6c757d;
+    border-radius: 5px;
+    color: #838897;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    margin-right: 15px;
+    padding: 8px;
+}
+
+.rightInformation .applicableoffers .offerCard{
+    color: #a1a8bd;
+}
+
+.rightInformation .addToCart{
+    background-color: #d00404;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 40px;
+    font-weight: 500;
+    cursor: pointer;
+}

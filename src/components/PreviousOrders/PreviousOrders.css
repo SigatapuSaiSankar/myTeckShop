@@ -1,0 +1,62 @@
+.orderContainer{
+    padding: 20px 100px;
+    background-color: #161819;
+    color: #ffffff;
+}
+
+.orderSummary{
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.orderContainer .userInfo{
+    font-size: 20px;
+}
+
+.orderContainer .orderInfo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.orderContainer hr{
+    margin: 20px 0px;
+}
+
+.orderContainer .tableMain{
+    margin-bottom: 20px;
+}
+
+.orderContainer .tableMain .tableStart{
+    text-align: center;
+}
+
+.orderContainer .tableMain th,td{
+    border: 1px solid #dbdbdb;
+    padding: 8px;
+}
+
+.orderContainer .tableHead th:nth-child(1){
+    width: 250px;
+}
+
+.orderContainer .tableHead th:nth-child(2){
+    width: 600px;
+}
+
+.orderContainer .tableHead th:nth-child(3){
+    width: 100px;
+}
+
+.orderContainer .tableHead th:nth-child(4){
+    width: 80px;
+}
+
+/* style={{ border: '1px solid #ddd', padding: '8px', textAlign: 'left' }}
+style={{ border: '1px solid #ddd', padding: '8px', textAlign: 'left' }}
+style={{ border: '1px solid #ddd', padding: '8px', textAlign: 'left' }}
+style={{ border: '1px solid #ddd', padding: '8px', textAlign: 'left' }} */

@@ -1,0 +1,121 @@
+
+.mainSignup{
+    background-color: #191919;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 771px;
+    width: 100%;
+    position: relative;
+}
+
+.mainSignup .signUp {
+    background-color: #141414;
+    border: 2px solid white;
+    width: 400px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    padding: 35px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mainSignup .errorMessage{
+    color:#d00404;
+}
+
+.mainSignup .signUp .signUpHeading{
+    color: #a9afc3;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.mainSignup .signUp .existingAccount{
+    color: #6c757d;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;   
+    margin-bottom: 20px;
+}
+
+.mainSignup .signUp .existingAccount a{
+    color: #a9afc3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.mainSignup .signUp .existingAccount a:hover{
+    text-decoration: underline;
+}
+
+.mainSignup .signUp input{
+    font-size: 15px;
+    padding: 13px 10px;
+    border-radius: 3px;
+    margin: 10px 0px;
+    background-color: #141414;
+    border: 2px solid #3d3d3d;
+    color: #ffffff;
+}
+
+.mainSignup .signUp .signUpBtn{
+    background-color: #d00404;
+    border: none;
+    font-size: 17px;
+    padding: 10px;
+    border-radius: 3px;
+    margin: 20px 0px 30px 0px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.mainSignup .signUp .seperating{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.mainSignup .signUp .seperating .orLoginWith{
+    color: #6c757d;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mainSignup .signUp .seperating hr{
+    width: 130px;
+    height: 0.5px;
+    background-color: #3d3d3d;
+    border: 1px solid #3d3d3d;
+}
+
+.mainSignup .signUp .otherOptions{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainSignup .signUp .otherOptions button{
+    margin: 30px 0px 0px 0px;
+    padding: 10px 35px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+}
+
+.mainSignup .signUp .otherOptions .facebook{
+    background-color: #3b5998;
+}
+
+.mainSignup .signUp .otherOptions .google{
+    background-color: #a61c00;
+}
+
+.mainSignup .signUp .otherOptions .twitter{
+    background-color: #1da1f2;
+}

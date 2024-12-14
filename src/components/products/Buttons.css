@@ -1,0 +1,22 @@
+.ProductIncDec{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.ProductIncDec span{
+    font-size: 25px;
+    padding: 0px 40px;
+}
+
+.ProductIncDec .changeQty{
+    background-color: #d00404;
+    font-size: 22px;
+    border: none;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
