@@ -14,7 +14,7 @@ export default function SignUp() {
 
     const navigate = useNavigate();
 
-    const path = "/SigatapuSaiSankar/myTechShop";
+    const path = "";
 
     const handleSignup = (e) => {
         e.preventDefault();
